@@ -69,13 +69,13 @@ To create new branch:
 
 [class 01 6th Nov 2024] (https://drive.google.com/file/d/1QxTuxB_OFAKtDD2yitncBX60PH2I7Z-j/view?usp=drive_link)
 
-        git Commands
-        markdown syntax
-        daily activity and usage
+            git Commands
+            markdown syntax
+            daily activity and usage
     
-    01. Introduction
-        Importance of python
-        Two versions of python (2.x & 3.x)
+        01. Introduction
+            Importance of python
+            Two versions of python (2.x & 3.x)
 
 ## Next class
 
