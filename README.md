@@ -39,7 +39,7 @@ To push the changes:
         class01 -> main
         ex: git push origin class01
 
-###Daily checks
+### Daily checks
 
 To check the branch is clean:
 
@@ -57,7 +57,7 @@ To create new branch:
 
     git checkout -b <NewBranchName>
 
-## course completed 
+## Course completed 
 
 [class 00 4th Nov 2024] (https://drive.google.com/file/d/1xa8O9wD5h2BRJJiURuxu3bj-pWvjsNym/view?usp=drive_link)
 
@@ -69,9 +69,9 @@ To create new branch:
 
 [class 01 6th Nov 2024] (https://drive.google.com/file/d/1QxTuxB_OFAKtDD2yitncBX60PH2I7Z-j/view?usp=drive_link)
 
-            git Commands
-            markdown syntax
-            daily activity and usage
+        00. Git Commands
+            Markdown syntax
+            Daily activity and usage
     
         01. Introduction
             Importance of python
@@ -79,8 +79,8 @@ To create new branch:
 
 ## Next class
 
-        built-in functions
-        comment operator
+        Built-in functions
+        Comment operator
         keywords and identifiers 
         Line continue and statement separator operators
         
