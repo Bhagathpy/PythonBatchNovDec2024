@@ -12,12 +12,11 @@ To list the local branches:
 
     git branch
 
-To create a branch:
+To create and immediately switch to the new branch:
 
     git checkout -b class01
 
 To see the latest local changes:
-
     git status
 
 To check/verify the changes made on a single file:
