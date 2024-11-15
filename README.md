@@ -66,7 +66,7 @@ To create new branch:
             Github access, creating project
 
 
-[class 01 6th Nov 2024] (https://drive.google.com/file/d/1QxTuxB_OFAKtDD2yitncBX60PH2I7Z-j/view?usp=drive_link)
+[class01 6th Nov 2024] (https://drive.google.com/file/d/1QxTuxB_OFAKtDD2yitncBX60PH2I7Z-j/view?usp=drive_link)
 
         00. Git Commands
             Markdown syntax
@@ -76,8 +76,10 @@ To create new branch:
             Importance of python
             Two versions of python (2.x & 3.x)
 
-## Next class
 
+[class02 11th Nov 2024] (https://drive.google.com/file/d/1qOC0pHgasDohTZ6QZq8K4nCraXM3lMCc/view?usp=drive_link)
+
+        PEP 8 guidelines (https://peps.python.org/pep-0008/)
         Built-in functions
         Comment operator
         keywords and identifiers 
