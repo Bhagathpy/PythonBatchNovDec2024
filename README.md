@@ -80,8 +80,26 @@ To create new branch:
 [class02 11th Nov 2024] (https://drive.google.com/file/d/1qOC0pHgasDohTZ6QZq8K4nCraXM3lMCc/view?usp=drive_link)
 
         PEP 8 guidelines (https://peps.python.org/pep-0008/)
+        Shebang line
+        Indendation Issue and best practices
         Built-in functions
+        Print function
+        Script mode vs interactive mode
+        Jupiter notebook usage
+        Ascii and unicode characters
+
+## Next class
+
         Comment operator
         keywords and identifiers 
         Line continue and statement separator operators
+    
+    02.Basics
+        Arthematic operations
+            +, -, /, //, %, *
+            divmod() functions
+            Practical Problem solving
+            working with complex numbers
+            abs() function
+            operators precedence in arithmetic operations
         

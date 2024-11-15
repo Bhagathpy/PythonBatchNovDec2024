@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 """
 
-Purpose: Basic PEP 8 Guidelines and Shebang line
+Purpose: Basic PEP 8 Guidelines 
 
-PEP : Python Enhanching Proposal
-PEP 8 : Coding style guide
+Shebang line
+
+PEP - Python Enhanching Proposal
+PEP 8 - Coding style guide
 
 This is docstring(document string)
 
@@ -18,7 +20,7 @@ print("Hello World!")
 print("True")
 
 def wishes(name):
-    wish = "How are you?". format(name)
+    wish = "How are you {0}?".format(name)
     print(wish)
 
 wishes("Bhagath")
